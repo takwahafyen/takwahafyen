@@ -83,6 +83,6 @@ I'm a full-stack software engineer based in Tunisia. I build production web appl
 ### 📫 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/takwa-hafyen">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/takwa-hafyen-472264282">LinkedIn</a> ·
   <a href="mailto:takwa.hafyen@gmail.com">takwa.hafyen@gmail.com</a>
 </p>
