@@ -6,21 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/takwa-hafyen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:takwa.hafyen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/takwa-hafyen-472264282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=takwa.hafyen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧭 About me
 
-I'm a full-stack software engineer based in Tunisia, working full remote. I build production web applications end-to-end — React/Next.js/TypeScript front-ends, Node.js back-ends, REST APIs — and I specialize in wiring AI into real products: RAG pipelines, LLM agents, and real-time integrations, not just prototypes.
-
-- 🔭 Currently building a production **RAG pipeline** and an **LLM-driven teaching agent** for a multi-tenant education platform ([losange.tn](https://losange.tn))
-- 🌱 Currently leveling up on **Vertex AI**
-- 🛠️ Daily user of AI-assisted coding tools (Claude Code, Cursor) as part of my workflow
-- 💬 Ask me about React/Next.js, Node.js APIs, RAG pipelines, or LLM agent design
-- ⚡ Fun fact: I go from architecture to deployment on my own features — including the AI parts
+I'm a full-stack software engineer based in Tunisia. I build production web applications end-to-end — React/Next.js/TypeScript front-ends, Node.js back-ends, REST APIs — and I specialize in wiring AI into real products: RAG pipelines, LLM agents, and real-time integrations.
 
 ---
 
@@ -70,20 +64,6 @@ I'm a full-stack software engineer based in Tunisia, working full remote. I buil
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
----
-
-### 🚀 Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Losange-TN](https://losange.tn) | Multi-tenant education platform with a production RAG pipeline (ingestion, Gemini embeddings, cosine-similarity retrieval) and an LLM teaching agent that plans and executes real actions from structured output. | Next.js, React, TypeScript, Node.js, PostgreSQL, Centrifugo, LiveKit |
-| [Clinic Management System](https://github.com/your-github-username/clinic-management-system) | Full-stack clinic management app for patient records, appointments, and doctor scheduling. | React, Node.js, MongoDB |
-| [Housing Management Website](https://github.com/your-github-username/housing-management) | Responsive housing management platform with REST APIs for listings, auth, and user management. | React, Node.js, MongoDB, Tailwind CSS |
-| [AI Cyberthreat Detection](https://github.com/your-github-username/cyberthreat-detection) | Detection and classification system for cyberattacks. | Python, TensorFlow, Scikit-Learn, Pandas, NumPy |
-| [Real-Time Emotion Detection](https://github.com/your-github-username/emotion-detection) | Live emotion detection via CNN, with associated psychological guidance. | Python, CNN, Keras, OpenCV, TensorFlow |
-
-> Replace `your-github-username` and the repo names above with your actual GitHub links.
 
 ---
 
