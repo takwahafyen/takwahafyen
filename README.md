@@ -69,10 +69,7 @@ I'm a full-stack software engineer based in Tunisia. I build production web appl
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=takwahafyen&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takwahafyen&layout=compact&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=takwahafyen&hide_border=true" alt="streak stats" />
