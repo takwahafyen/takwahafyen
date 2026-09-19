@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Node.js;RAG+pipelines+%26+LLM+agents+in+production;Full-stack+from+architecture+to+deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Node.js;RAG+pipelines+%26+LLM+agents;Full-stack+from+architecture+to+deployment" alt="Typing SVG" />
 </p>
 
 <p align="center">
