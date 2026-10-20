@@ -14,12 +14,12 @@
   <img src="https://www.gitskins.com/api/section/projects?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen projects visual" />
 </p>
 
-- [takwahafyen](https://github.com/takwahafyen/takwahafyen) · ★ 0
-- [takwahafyen-portfolio](https://github.com/takwahafyen/takwahafyen-portfolio) · ★ 0
+- [takwahafyen](https://github.com/takwahafyen/takwahafyen) · 
+- [takwahafyen-portfolio](https://github.com/takwahafyen/takwahafyen-portfolio) · 
 - [portfolio11](https://github.com/takwahafyen/portfolio11) · ★ 0
-- [takwaportfoliohafyen](https://github.com/takwahafyen/takwaportfoliohafyen) · ★ 0
+- [takwaportfoliohafyen](https://github.com/takwahafyen/takwaportfoliohafyen) · 
 - [takwa](https://github.com/takwahafyen/takwa) · ★ 0
-- [projet-smarthome](https://github.com/takwahafyen/projet-smarthome) · ★ 0
+- [projet-smarthome](https://github.com/takwahafyen/projet-smarthome) ·
 
 </details>
 
@@ -60,7 +60,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen social visual" />
+  <img src="https://www.gitskins.com/api/section/social?
+username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen social visual" />
 </p>
 
 </details>
