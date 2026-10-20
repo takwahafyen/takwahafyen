@@ -1,66 +1,68 @@
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=takwahafyen&amp;theme=neon&amp;avatar=https%3A%2F%2Fgithub.com%2Ftakwahafyen.png" alt="Takwa Hafyen profile banner" />
+  <img src="https://www.gitskins.com/api/section/hero?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen hero visual" />
 </p>
 
-<p align="center">
-  <b>Takwa Hafyen</b> · Full-Stack Software Engineer<br/>
-  <sub>Building practical software, AI solutions, and web applications.</sub>
-</p>
+<p align="center"><b>Takwa Hafyen</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-<p align="center">
-  <a href="https://github.com/takwahafyen">GitHub</a> ·
-  <a href="https://takwahafyen-portfolio-ff.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/takwa-hafyen-472264282">LinkedIn</a>
-</p>
-
----
+<p align="center"><a href="https://github.com/takwahafyen">GitHub</a></p>
 
 <details open>
-  <summary><b>📌 Top projects</b></summary>
-  <br/>
-
-  <p align="center">
-  </p>
-
-  - [Portfolio](https://github.com/takwahafyen/takwahafyen-portfolio)
-  - [Smart Home Project](https://github.com/takwahafyen/projet-smarthome)
-</details>
-
-<details>
-  <summary><b>🧰 Tech stack</b></summary>
-  <br/>
-
-  <p align="center">
-  </p>
-</details>
-
-<details>
-  <summary><b>📊 GitHub statistics</b></summary>
-  <br/>
-
-  <p align="center">
-  </p>
-</details>
-
-<details>
-  <summary><b>🟩 Contribution activity</b></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/heatmap?username=takwahafyen&amp;theme=neon" alt="GitHub contribution activity" />
-  </p>
-</details>
-
-<details>
-  <summary><b>👋 Contact</b></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://www.gitskins.com/api/section/social?username=takwahafyen&amp;theme=neon&amp;avatar=https%3A%2F%2Fgithub.com%2Ftakwahafyen.png" alt="Social links" />
-  </p>
-</details>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <sub>Profile visuals powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a>.</sub>
+  <img src="https://www.gitskins.com/api/section/projects?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen projects visual" />
 </p>
+
+- [takwahafyen](https://github.com/takwahafyen/takwahafyen) · ★
+- [takwahafyen-portfolio](https://github.com/takwahafyen/takwahafyen-portfolio) · ★
+- [portfolio11](https://github.com/takwahafyen/portfolio11) · ★
+- [takwaportfoliohafyen](https://github.com/takwahafyen/takwaportfoliohafyen) · ★
+- [takwa](https://github.com/takwahafyen/takwa) · ★
+- [projet-smarthome](https://github.com/takwahafyen/projet-smarthome) · ★
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>9</b> public repositories, <b>0</b> stars, <b>69</b> contributions in the last year, a longest streak of <b>2</b> days and <b>0</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=takwahafyen&theme=neon" alt="takwahafyen contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=takwahafyen&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141859147%3Fu%3Dbfa7a2e979c98a1ae9d2e2231d6ca80c9665dce1%26v%3D4" alt="takwahafyen social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Takwa Hafyen · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
