@@ -21,7 +21,6 @@
   <br/>
 
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/projects?username=takwahafyen&amp;theme=neon&amp;avatar=https%3A%2F%2Fgithub.com%2Ftakwahafyen.png" alt="Featured projects" />
   </p>
 
   - [Portfolio](https://github.com/takwahafyen/takwahafyen-portfolio)
@@ -33,7 +32,6 @@
   <br/>
 
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/stack?username=takwahafyen&amp;theme=neon&amp;avatar=https%3A%2F%2Fgithub.com%2Ftakwahafyen.png" alt="Technology stack" />
   </p>
 </details>
 
@@ -42,7 +40,6 @@
   <br/>
 
   <p align="center">
-    <img src="https://www.gitskins.com/api/section/stats?username=takwahafyen&amp;theme=neon&amp;avatar=https%3A%2F%2Fgithub.com%2Ftakwahafyen.png" alt="GitHub statistics" />
   </p>
 </details>
 
