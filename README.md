@@ -109,6 +109,22 @@ Modular monorepo with a customer storefront, merchant analytics dashboard, and a
 
 ---
 
+### 6. 😊 [Facial Emotion Recognition](https://github.com/takwahafyen/Facial-emotion-recognition)
+> **Real-Time CNN Emotion Detector with Psychological Conseil System**
+
+Real-time facial emotion detection using a Convolutional Neural Network, enhanced with a live **psychological conseil sidebar panel** that renders 3 actionable tips + a mindset quote for every detected emotion — turning a classic CV project into a human-aware AI application.
+
+**Highlights:**
+- 🎭 **7-Class Emotion Detection**: Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise — real-time via OpenCV webcam loop with per-face confidence score overlay
+- 🧠 **Psychological Conseil Engine**: For every detected emotion, a color-coded sidebar panel renders 3 actionable psychological tips + a mindset quote in real-time
+- 🏗️ **CNN Architecture**: 3× Conv2D + BatchNorm + MaxPool + Dropout blocks → Dense(256) → Softmax(7), trained on FER2013 (35,887 × 48×48 grayscale images)
+- 🔍 **Multi-Face Support**: Haar Cascade detector handles multiple faces simultaneously, each with independent emotion classification
+- 📐 **Clean Module Design**: Separated `src/emotions_advice.py` conseil engine + `src/realtime.py` inference pipeline
+
+`Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn` `NumPy` `FER2013` `Jupyter Notebook`
+
+---
+
 ## 🛠️ Full Technology Stack
 
 <details open>
